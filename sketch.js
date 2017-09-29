@@ -7,7 +7,7 @@ function setup() {
 	rectMode(CENTER);
 	angleMode(DEGREES);
 
-	//put your setup code here
+	//more setup code here
 }
 
 function draw() {
